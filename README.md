@@ -1,2 +1,2 @@
 # EEG-Dataset
-Project on EEG dataset
+This paper evaluates the performance of Convolutional Neural Networks (CNNs) with the addition of Variational Autoencoder (VAE) and Long Short-Term Memory (LSTM) architecture in classification across all subjects in the EEG dataset. We would like to investigate the performance of a CNN+LSTM architecture in comparison to the baseline deep CNN model presented by Schirrmeister et al. [1]. For VAE, we would like to investigate the use and effectiveness of VAEs to generate EEG data from our training set. Details and hyperparameters for each model are included at the end of the work.
